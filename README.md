@@ -10,7 +10,7 @@
 
 ---
 ### ACG
-
+- [Nier:Automata](https://github.com/gitNYB/the-E-ndofYoRHa)
 ---
 ### 生活
 
